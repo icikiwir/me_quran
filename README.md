@@ -1,6 +1,7 @@
 # me_quran
 Font Alquran for web
 
+Add this code to the css
 ```css
 @font-face {
 	font-family: 'me_quran';
