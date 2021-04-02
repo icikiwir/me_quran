@@ -1,8 +1,10 @@
 # me_quran
 Font Alquran for web
 
+Add this code to the css
+```css
 @font-face {
-font-family: 'me_quran';
+	font-family: 'me_quran';
 	src: url('https://icikiwir.github.io/test/me_quran.eot?#iefix') format('embedded-opentype'),  
 	url('https://icikiwir.github.io/test/me_quran.woff') format('woff'), 
 	url('https://icikiwir.github.io/test/me_quran.ttf')  format('truetype'), 
@@ -10,3 +12,4 @@ font-family: 'me_quran';
 	font-weight: normal;
 	font-style: normal;
 }
+```
